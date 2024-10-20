@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "title": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "file": "BeeGees-StayinAlive.mp3",
+      "image": "imagen1.png",
+      "releaseDate": "1977-12-13",
+      "genre": "Disco"
+    },
+    {
+      "id": 2,
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "file": "BonJovi-ItsMyLife.mp3",
+      "image": "imagen2.png",
+      "releaseDate": "2000-05-23",
+      "genre": "Rock"
+    },
+    {
+      "id": 3,
+      "title": "Capone",
+      "artist": "Capone",
+      "file": "capone.mp3",
+      "image": "imagen3.png",
+      "releaseDate": "1999-02-12",
+      "genre": "Rap"
+    },
+    {
+      "id": 4,
+      "title": "I Do",
+      "artist": "Chingy",
+      "file": "chingy-i-do.mp3",
+      "image": "imagen4.png",
+      "releaseDate": "2003-07-15",
+      "genre": "Hip-Hop"
+    },
+    {
+      "id": 5,
+      "title": "The Real Slim Shady",
+      "artist": "Eminem",
+      "file": "EminemTheRealSlimShady.mp3",
+      "image": "imagen5.png",
+      "releaseDate": "2000-04-25",
+      "genre": "Rap"
+    },
+    {
+      "id": 6,
+      "title": "Without Me",
+      "artist": "Eminem",
+      "file": "Eminem-WithoutMe.mp3",
+      "image": "imagen6.png",
+      "releaseDate": "2002-05-14",
+      "genre": "Rap"
+    },
+    {
+      "id": 7,
+      "title": "The Final Countdown",
+      "artist": "Europe",
+      "file": "Europe-TheFinal.mp3",
+      "image": "imagen7.png",
+      "releaseDate": "1986-02-14",
+      "genre": "Rock"
+    },
+    {
+      "id": 8,
+      "title": "Bring Me to Life",
+      "artist": "Evanescence",
+      "file": "Evanescence-BringMeToLife.mp3",
+      "image": "imagen8.png",
+      "releaseDate": "2003-04-22",
+      "genre": "Rock"
+    },
+    {
+      "id": 9,
+      "title": "My Immortal",
+      "artist": "Evanescence",
+      "file": "Evanescence-MyImmortal.mp3",
+      "image": "imagen9.png",
+      "releaseDate": "2003-12-08",
+      "genre": "Rock"
+    },
+    {
+      "id": 10,
+      "title": "Animals",
+      "artist": "Martin Garrix",
+      "file": "MartinGarrix-Animals.mp3",
+      "image": "imagen10.png",
+      "releaseDate": "2013-06-17",
+      "genre": "Electronic"
+    },
+    {
+      "id": 11,
+      "title": "I Was Made for Lovin' You",
+      "artist": "Kiss",
+      "file": "Kiss-IWasMadeForLovinYou.mp3",
+      "image": "imagen11.png",
+      "releaseDate": "1979-05-20",
+      "genre": "Rock"
+    },
+    {
+      "id": 12,
+      "title": "The Reason",
+      "artist": "Hoobastank",
+      "file": "Hoobastank-TheReason.mp3",
+      "image": "imagen12.png",
+      "releaseDate": "2003-12-09",
+      "genre": "Alternative Rock"
+    },
+    {
+      "id": 13,
+      "title": "Bad (Shortened Version)",
+      "artist": "Michael Jackson",
+      "file": "MichaelJackson-BadShortenedVersion.mp3",
+      "image": "imagen13.png",
+      "releaseDate": "1987-09-07",
+      "genre": "Pop"
+    },
+    {
+      "id": 14,
+      "title": "Earth Song",
+      "artist": "Michael Jackson",
+      "file": "MichaelJackson-EarthSong.mp3",
+      "image": "imagen14.png",
+      "releaseDate": "1995-11-27",
+      "genre": "Pop"
+    },
+    {
+      "id": 15,
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "file": "RedHotChiliPeppers-Californication.mp3",
+      "image": "imagen15.png",
+      "releaseDate": "2000-05-20",
+      "genre": "Rock"
+    },
+    {
+      "id": 16,
+      "title": "Nothing But You",
+      "artist": "Paul Van Dyk",
+      "file": "PaulVanDyk-NothingButYou.mp3",
+      "image": "imagen16.png",
+      "releaseDate": "2003-03-10",
+      "genre": "Trance"
+    },
+    {
+      "id": 17,
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "file": "RickAstley-NeverGonnaGiveYouUp.mp3",
+      "image": "imagen17.png",
+      "releaseDate": "1987-07-27",
+      "genre": "Pop"
+    },
+    {
+      "id": 18,
+      "title": "Riders on the Storm",
+      "artist": "The Doors",
+      "file": "riders-on-the-storm.mp3",
+      "image": "imagen18.png",
+      "releaseDate": "1971-06-06",
+      "genre": "Rock"
+    },
+    {
+      "id": 19,
+      "title": "Lean Back",
+      "artist": "Terror Squad ft. Fat Joe",
+      "file": "terror-squad-ft-fat-joe.mp3",
+      "image": "imagen19.png",
+      "releaseDate": "2004-06-08",
+      "genre": "Hip-Hop"
+    },
+    {
+      "id": 20,
+      "title": "Wake Me Up Before You Go-Go",
+      "artist": "Wham!",
+      "file": "Wham!-WakeMeUpBeforeYou.mp3",
+      "image": "imagen20.png",
+      "releaseDate": "1984-05-14",
+      "genre": "Pop"
+    }
+  ]
+  
